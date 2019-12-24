@@ -68,14 +68,16 @@ display: block;
 }
 
 .services{
-  height:600px;
-  padding-top: 120px;
+  height:580px;
+  padding-top: 100px;
   background-color: rgb(71, 71, 71);
   color: #FFF;
 }
 
 .services p{
   opacity: 0.8;
+  padding-left: 10px;
+  padding-top: 20px;
 }
 
 .service-text{
@@ -90,13 +92,14 @@ display: block;
 
 .service-text2{
   font-size: 30px;
-  padding-top: 80px;
+  padding-left: 20px;
+  padding-top: 100px;
   opacity: 0.8;
 }
 
 .skills{
   height: 620px;
-  padding-top:100px;
+  padding-top:80px;
   background-image: url(images/photo-1541140134513-85a161dc4a00.jpeg);
   background-size: cover;
 }
